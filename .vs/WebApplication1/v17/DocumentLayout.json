@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0142FA-B45E-4BEB-BFF1-861D5F9D7DC9}|Test\\Test.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\project\\webapplication1\\test\\persontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0142FA-B45E-4BEB-BFF1-861D5F9D7DC9}|Test\\Test.csproj|solutionrelative:test\\persontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0142FA-B45E-4BEB-BFF1-861D5F9D7DC9}|Test\\Test.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\project\\webapplication1\\test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F0142FA-B45E-4BEB-BFF1-861D5F9D7DC9}|Test\\Test.csproj|solutionrelative:test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0142FA-B45E-4BEB-BFF1-861D5F9D7DC9}|Test\\Test.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\project\\webapplication1\\test\\ipersonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0142FA-B45E-4BEB-BFF1-861D5F9D7DC9}|Test\\Test.csproj|solutionrelative:test\\ipersonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28ACDBEE-61E5-4CCF-B253-64732A4CD5FD}|WebApplication1\\WebApplication1.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\project\\webapplication1\\webapplication1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28ACDBEE-61E5-4CCF-B253-64732A4CD5FD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPersonHandler.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\WebApplication1\\Test\\IPersonHandler.cs",
+              "RelativeDocumentMoniker": "Test\\IPersonHandler.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\WebApplication1\\Test\\IPersonHandler.cs",
+              "RelativeToolTip": "Test\\IPersonHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:00:23.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\WebApplication1\\Test\\Test.csproj",
+              "RelativeDocumentMoniker": "Test\\Test.csproj",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\WebApplication1\\Test\\Test.csproj",
+              "RelativeToolTip": "Test\\Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-15T11:13:02.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonTest.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\WebApplication1\\Test\\PersonTest.cs",
+              "RelativeDocumentMoniker": "Test\\PersonTest.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\WebApplication1\\Test\\PersonTest.cs",
+              "RelativeToolTip": "Test\\PersonTest.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAmwJYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T11:12:42.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\WebApplication1\\WebApplication1\\Person.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Person.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\WebApplication1\\WebApplication1\\Person.cs",
+              "RelativeToolTip": "WebApplication1\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T11:12:28.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
